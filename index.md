@@ -6,7 +6,7 @@ I am a current second-year mechanical engineering student with junior standing g
 * [Engineers Without Borders](https://liam-magargal.github.io/Engineers-Without-Borders/)
 * [Community Service Office](https://liam-magargal.github.io/Community-Service-Office/)
 * [Skills](https://liam-magargal.github.io/Skills/)
-* [Coursework/Transcript](http://github.com)
+* [Coursework/Transcript](https://liam-magargal.github.io/Coursework/)
 
 # Contact Info
 * Phone number: (302)-547-1760

@@ -5,5 +5,11 @@ I am a junior in mechanical engineering at Lehigh University. I grew up in Hocke
 # Index
 * [Engineers Without Borders](https://liam-magargal.github.io/Engineers-Without-Borders/)
 * [Community Service Office](https://liam-magargal.github.io/Community-Service-Office/)
-* [Skills](http://github.com)
+* [Skills](https://liam-magargal.github.io/Skills/)
 * [Coursework/Transcript](http://github.com)
+
+# Contact Info
+Phone number: (302)-547-1760
+Email: LKM322@lehigh.edu
+School Address (Preferred): #2861 4 Campus Sq Bethlehem, PA 18015-3033
+Home Address: 644 Ridgeview Rd Hockessin, DE 19707

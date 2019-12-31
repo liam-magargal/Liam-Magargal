@@ -4,6 +4,6 @@ I am a junior in mechanical engineering at Lehigh University. I grew up in Hocke
 
 # Index
 * [Engineers Without Borders](https://liam-magargal.github.io/Engineers-Without-Borders/)
-* [Community Service Office](https://github.com/liam-magargal/Community-Service-Office/blob/master/index.md)
+* [Community Service Office](https://liam-magargal.github.io/Community-Service-Office/)
 * [Skills](http://github.com)
 * [Coursework/Transcript](http://github.com)

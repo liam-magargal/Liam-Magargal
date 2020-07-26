@@ -1,5 +1,5 @@
 
-![Headshot](https://user-images.githubusercontent.com/59369935/71645574-63e06680-2ca8-11ea-85b0-9c2c5207bb3e.JPG)
+![Headshot](https://user-images.githubusercontent.com/59369935/71645574-63e06680-2ca8-11ea-85b0-9c2c5207bb3e.JPG | width=100)
 
 # About Me
 

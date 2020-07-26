@@ -7,7 +7,7 @@ I am a current third-year mechanical engineering student at Lehigh University wi
 
 # Index
 * [Engineers Without Borders](https://liam-magargal.github.io/Engineers-Without-Borders/)
-* [Computational Aerodynamics Research](https://liam-magargal.github.io/Research/)
+* [Computational Aerodynamics Research](https://liam-magargal.github.io/Computational-Aerodynamics-Research/)
 * [Community Service Office](https://liam-magargal.github.io/Community-Service-Office/)
 * [Skills](https://liam-magargal.github.io/Skills/)
 * [Coursework/Transcript](https://liam-magargal.github.io/Coursework/)
